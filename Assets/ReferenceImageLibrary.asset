@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5096740859602770498
+  m_GuidHigh: 3358975189799691693
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5234029266822784889
+      m_GuidHigh: 13107746945276881306
+    m_SerializedTextureGuid:
+      m_GuidLow: 13602034511388372783
+      m_GuidHigh: 16316085142718415177
+    m_Size: {x: 0.5, y: 0.662963}
+    m_SpecifySize: 0
+    m_Name: SpikeT
+    m_Texture: {fileID: 2800000, guid: 49e86f2f2252bcc44981c2b0fd606ee2, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5438826265676542947
+      m_GuidHigh: 11037135703312656308
+    m_SerializedTextureGuid:
+      m_GuidLow: 9184027517976201894
+      m_GuidHigh: 14609630785823876200
+    m_Size: {x: 0.5, y: 0.5147059}
+    m_SpecifySize: 0
+    m_Name: MagneticT
+    m_Texture: {fileID: 2800000, guid: 58624aa6385e7f7468a4a468cbd5bfca, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5090555666003080092
+      m_GuidHigh: 11339315659633881274
+    m_SerializedTextureGuid:
+      m_GuidLow: 4531943236785871348
+      m_GuidHigh: 17102529853185971834
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: MagicCircleT
+    m_Texture: {fileID: 2800000, guid: d2db19f4b25c3ee47ad6a9d3496458ed, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4922192222174790070
+      m_GuidHigh: 16747598673790619536
+    m_SerializedTextureGuid:
+      m_GuidLow: 5266030916372366177
+      m_GuidHigh: 8342965659542207496
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: cafe
+    m_Texture: {fileID: 2800000, guid: c2998361b337491408bc4b7e102bc873, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5676383524702181634
+      m_GuidHigh: 11195736982936275880
+    m_SerializedTextureGuid:
+      m_GuidLow: 16723141963494099333
+      m_GuidHigh: 10107197071110992313
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: delice
+    m_Texture: {fileID: 2800000, guid: 467e89858903e814b971709a2ffa438c, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4898165057301956335
+      m_GuidHigh: 13774255085160287158
+    m_SerializedTextureGuid:
+      m_GuidLow: 7153086578635193553
+      m_GuidHigh: 3908376266116517352
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: tower1
+    m_Texture: {fileID: 2800000, guid: 372a3cd1de586344e84d71ae81573d36, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5448757096810918300
+      m_GuidHigh: 8958541039730632869
+    m_SerializedTextureGuid:
+      m_GuidLow: 15110954643604164119
+      m_GuidHigh: 3433090596060073659
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: tower2
+    m_Texture: {fileID: 2800000, guid: e510ce17e52fd1b4bb0ee533b5c9a42f, type: 3}
